@@ -1,1 +1,1 @@
-const apiUrl = 'https://github.com/CursedPrograms/gennhausser';
+const apiUrl = 'https://api.github.com/repos/CursedPrograms/gennhausser/languages';
